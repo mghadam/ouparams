@@ -1,0 +1,27 @@
+Metadata-Version: 2.1
+Name: ouparams
+Version: 0.0.1
+Summary: "A package to estimate process parameters for Ornstein-Uhlenbeck"
+Home-page: https://github.com/mghadam/ouparams
+Author: "Mostafa Ghadamyari"
+Author-email: "m.ghadam@sharif.edu"
+License: UNKNOWN
+Project-URL: Bug Tracker, https://github.com/mghadam/ouparams/issues
+Platform: UNKNOWN
+Classifier: Programming Language :: Python :: 3
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Operating System :: OS Independent
+Requires-Python: >=3.6
+Description-Content-Type: text/markdown
+License-File: LICENSE
+
+# ouparams
+A python module to Find Process Parameters for Ornstein-Uhlenbeck Processes
+
+# Usage
+```
+import ouparams
+mu, sigma, theta = ouparams.calc(data)
+```
+
+

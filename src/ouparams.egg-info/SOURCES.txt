@@ -1,0 +1,10 @@
+LICENSE
+README.md
+pyproject.toml
+setup.cfg
+src/ouparams/__init__.py
+src/ouparams/ouparams.py
+src/ouparams.egg-info/PKG-INFO
+src/ouparams.egg-info/SOURCES.txt
+src/ouparams.egg-info/dependency_links.txt
+src/ouparams.egg-info/top_level.txt

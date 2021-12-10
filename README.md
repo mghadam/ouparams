@@ -8,6 +8,15 @@ Output:
 	  Ornstein–Uhlenbeck process with long-term mean mu, volatility sigma, and mean reversion speed theta.
 ```
 
+# Installation
+Clone the github repository and install it with `pip install .`
+
+or
+
+```
+pip install git+https://github.com/mghadam/ouparams.git
+```
+
 # Usage
 ```
 # A sample OU process in numpy array format

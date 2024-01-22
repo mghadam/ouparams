@@ -1,5 +1,5 @@
 # ouparams
-A python module to Find Process Parameters for Ornstein-Uhlenbeck Processes
+A python module to Find Process Parameters for Ornstein-Uhlenbeck Processes using [Maximum Likelihood Estimation](https://github.com/cantaro86/Financial-Models-Numerical-Methods/blob/master/6.1%20Ornstein-Uhlenbeck%20process%20and%20applications.ipynb)
 ```
 Input:
 	- x the process dataset in numpy array format
